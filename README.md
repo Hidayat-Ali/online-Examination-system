@@ -1,4 +1,5 @@
 # DBMS-MINI-Project
+<h1> Welcome to Hidhu's Project</h1>
  DBMS project on topic Online Examination System
 
 <b>Technology Used:</b>
@@ -7,7 +8,7 @@
 
 <b>Back-End:</b> PHP,MySql
 
-<b>Link: <a href="https://rakeshmariyaplar.herokuapp.com/"> rakeshmariyaplar.herokuapp.com/</a></b>
+
 
 
 <b>Software Used:</b>WAMP
@@ -43,22 +44,10 @@ Functional Specification:
 <b>ER-Diagram</b>
 <img src="https://imgur.com/cXSgrXO.png" width=100%>
 
-<b>Snapshots</b>
 
-<img src="https://imgur.com/k8uCKmF.png" width=100%>
-<img src="https://imgur.com/elXTDUL.png" width=100%>
-<img src="https://imgur.com/boG3UD5.png" width=100%>
 
-<img src="https://imgur.com/k3eLTbx.png" width=100%>
-
-<img src="https://imgur.com/rqazZfl.png" width=100%>
-
-<img src="https://imgur.com/gdsCmoY.png" width=100%>
-
-<img src="https://imgur.com/tReWRcw.png" width=100%>
-
-<b>How to run this project locally</b>
-1. clone this repo to www folder in WAMP software
+<b>How to run this project locally </b>
+1. clone this repo to www folder in WAMP/xampp/mamp software
 2. Open phpmydmin & Create new database with name projet
 3. import the SQL file present in SQL Files Folder using import option in phpmyadmin.
 4. changes credentials in sql.php file with your database credentials.
